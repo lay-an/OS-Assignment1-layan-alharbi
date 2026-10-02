@@ -288,6 +288,8 @@ public class SchedulerSimulation {
                           "╚════════════════════════════════════════════════════════════════════════════════╝" + 
                           Colors.RESET + "\n");
         System.out.println("Total Context Switches: " + contextSwitches);
+        System.out.println("Simulation completed successfully.");
+
 
     }
     
